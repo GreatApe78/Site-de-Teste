@@ -1,0 +1,67 @@
+
+*{
+
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#texto_novo_nome{
+
+    padding: 10px;
+}
+#caixa_novo_preco{
+
+    padding: 10px;
+}
+body{
+    font-size: large;
+    margin:0.5rem;
+    background-color: rgb(45, 51, 50);
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+    padding: 10px;
+    font-size: larger;
+}
+
+h2{
+    background-color: green;
+    color: rgb(26, 44, 41);
+    border-radius: 2rem 2rem ;
+}
+
+.getters{
+    border-radius: 2rem;
+    background-color: rgb(48, 91, 130);
+}
+.setters{
+
+    background-color: darkgoldenrod;
+}
+.payables{
+
+
+    background-color: rgb(178, 22, 22);
+}
+
+
+div{
+    font-family: monospace;
+    font-style: italic;
+    font-size: x-large;
+    
+    color: rgb(233, 9, 9);
+}
+
+nav{
+
+    border: 2px solid #333;
+    border-radius: 2rem;
+
+    margin: 0 auto 1rem;
+
+    max-width: 600px;
+}
